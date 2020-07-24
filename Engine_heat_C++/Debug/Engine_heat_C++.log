@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Engine.h(11,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Engine.h(12,40): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Engine.h(13,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\main.cpp(20,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Stand.h(40,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Stand.h(26): message : во время компиляции функции-члена класс шаблон "int TestStands::overHeatingTest<Engines::engine>::start(void)"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\main.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "int TestStands::overHeatingTest<Engines::engine>::start(void)"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\main.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TestStands::overHeatingTest<Engines::engine>"
+C:\Users\22\source\repos\Engine_heat_C++\Engine_heat_C++\Stand.h(41,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Engine_heat_C++.vcxproj -> C:\Users\22\source\repos\Engine_heat_C++\Debug\Engine_heat_C++.exe
